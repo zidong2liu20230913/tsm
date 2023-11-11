@@ -1,2 +1,2 @@
 # tsm
-tcl service manager
+service manager
